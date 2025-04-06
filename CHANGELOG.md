@@ -1,5 +1,12 @@
 # Changelog
 
+## [23.21.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.21.0...v23.21.1) (2025-04-06)
+
+
+### Bug Fixes
+
+* **ignore:** update dependencies ([#9128](https://github.com/Koenkk/zigbee-herdsman-converters/issues/9128)) ([f055b02](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f055b029c31c43f9826c752ca64136cb359a47c5))
+
 ## [23.21.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v23.20.1...v23.21.0) (2025-04-05)
 
 
